@@ -1,2 +1,2 @@
 # git-github
-this is for my understanding
+this is for my understanding.
